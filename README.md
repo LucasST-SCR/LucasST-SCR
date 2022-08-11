@@ -34,5 +34,5 @@
 
 <h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
 
-[![Discord](https://img.shields.io/discord/730446040997691493?color=%238109d6&label=Infinity%20Community](mailto:SEU-EMAIL)
+![Discord](https://img.shields.io/discord/730446040997691493?color=%238109d6&label=Infinity%20Community)
 [![GitHub SEU NOME]( https://img.shields.io/github/followers/VanessaSwerts?label=follow&style=social)](https://github.com/LucasST-SCR)
